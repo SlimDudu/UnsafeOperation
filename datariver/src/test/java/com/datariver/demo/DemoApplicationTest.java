@@ -1,7 +1,7 @@
 package com.datariver.demo;
 
-import com.datariver.demo.service.UnsafeQueue;
-import com.datariver.demo.serviceImpl.UnsafeTree;
+import com.datariver.demo.foundation.UnsafeQueue;
+import com.datariver.demo.foundation.UnsafeTree;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
